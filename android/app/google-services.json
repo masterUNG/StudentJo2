@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "91423500395",
+    "project_id": "studentjo-57f60",
+    "storage_bucket": "studentjo-57f60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91423500395:android:75cb0dff330e4290dea92e",
+        "android_client_info": {
+          "package_name": "com.masterung.studentjo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5id4ubJ_x0ETNkapIR2oTYlhkGVHzz8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91423500395:android:c61b9d00bea77fcedea92e",
+        "android_client_info": {
+          "package_name": "com.masterung.testfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5id4ubJ_x0ETNkapIR2oTYlhkGVHzz8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
